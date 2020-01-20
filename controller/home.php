@@ -1,10 +1,10 @@
 <?php
-require_once 'model/GeneralLogic.php';
+require_once 'model/Logic.php';
 
 
 class Home {
     public function __construct() {
-        $this->GeneralLogic = new GeneralLogic();
+        $this->Logic = new Logic();
     }
 
     public function index() {

