@@ -1,7 +1,7 @@
 <?php
 require_once 'model/DataHandler.php';
 
-class Logic {
+class GeneralLogic {
 
     public function __construct() {
         $this->DataHandler = new Datahandler("localhost", "mysql", "werelddelen", "root", "Rashed112");
