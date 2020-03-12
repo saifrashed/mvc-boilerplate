@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../bluebloq/AdminLTE-master/.idea/AdminLTE-master.iml" filepath="$PROJECT_DIR$/../../bluebloq/AdminLTE-master/.idea/AdminLTE-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bluebloq/blueboq_dashboard/.idea/blueboq_dashboard.iml" filepath="$PROJECT_DIR$/../../bluebloq/blueboq_dashboard/.idea/blueboq_dashboard.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/freebie-2-beautiful-checkout-forms/.idea/freebie-2-beautiful-checkout-forms.iml" filepath="$USER_HOME$/Downloads/freebie-2-beautiful-checkout-forms/.idea/freebie-2-beautiful-checkout-forms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mvc_boilerplate.iml" filepath="$PROJECT_DIR$/.idea/mvc_boilerplate.iml" />
     </modules>
   </component>

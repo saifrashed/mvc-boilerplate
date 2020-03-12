@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="blueboq_dashboard" />
+    <orderEntry type="module" module-name="AdminLTE-master" />
+    <orderEntry type="module" module-name="freebie-2-beautiful-checkout-forms" />
   </component>
 </module>

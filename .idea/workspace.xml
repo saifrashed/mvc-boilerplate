@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1eca7aba-bb17-4527-b666-da6b913b135a" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="1eca7aba-bb17-4527-b666-da6b913b135a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/controller/checkout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/checkout/checkout_order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/checkout/checkout_transaction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/events/event_order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mvc_boilerplate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mvc_boilerplate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/DataHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/DataHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/GeneralLogic.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/GeneralLogic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
+    </list>
+>>>>>>> 66463f248c4dbf7ead838a535b9da776425a68b6
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +33,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/login/login.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 66463f248c4dbf7ead838a535b9da776425a68b6
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>-fluid</find>
+      <find>file</find>
+      <find>file input</find>
+      <find>date a</find>
+      <find>file inp</find>
+      <find>date and</find>
+      <find>dat</find>
+      <find>reser</find>
+      <find>date and time</find>
+      <find>check</find>
+      <find>summa</find>
+      <find>username</find>
+      <find>PROJECTS_READS</find>
+      <find>PROJECTS_CREATE</find>
+      <find>PROJECTS_UPDATE</find>
+      <find>PROJECT_DELETE</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -31,13 +89,30 @@
         <option value="$PROJECT_DIR$/view/home.php" />
         <option value="$PROJECT_DIR$/view/test.php" />
         <option value="$PROJECT_DIR$/router.php" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="/private/var/folders/sv/hm31tysx0cd285m4v21g1jr40000gn/T/fz3temp-2/index.php" />
         <option value="$PROJECT_DIR$/view/header.php" />
         <option value="$PROJECT_DIR$/controller/router.php" />
         <option value="$PROJECT_DIR$/view/footer.php" />
         <option value="$PROJECT_DIR$/controller/home.php" />
+        <option value="$PROJECT_DIR$/model/ProjectsLogic.php" />
+        <option value="$PROJECT_DIR$/controller/projects.php" />
+        <option value="$PROJECT_DIR$/controller/event.php" />
+        <option value="$PROJECT_DIR$/view/events/event_reads.php" />
+        <option value="$PROJECT_DIR$/controller/admin.php" />
+        <option value="$PROJECT_DIR$/view/layout/header.php" />
+        <option value="$PROJECT_DIR$/../../bluebloq/AdminLTE-master/pages/forms/advanced.html" />
+        <option value="$PROJECT_DIR$/view/layout/footer.php" />
+        <option value="$PROJECT_DIR$/controller/events.php" />
+        <option value="$PROJECT_DIR$/view/checkout/checkout_transaction.php" />
+        <option value="$PROJECT_DIR$/controller/checkout.php" />
+        <option value="$PROJECT_DIR$/view/events/event_order.php" />
+        <option value="$PROJECT_DIR$/view/checkout/checkout_order.php" />
+        <option value="$PROJECT_DIR$/model/AuthLogic.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/view/events/event_create.php" />
+        <option value="$PROJECT_DIR$/view/layout/sidebar.php" />
+        <option value="$PROJECT_DIR$/view/events/event_update.php" />
       </list>
     </option>
   </component>
@@ -56,14 +131,51 @@
         <subPane>
           <expand>
             <path>
-              <item name="mvc_router_boilerplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvc_router_boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="TickIt_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TickIt_Web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="mvc_router_boilerplate" type="b2602c69:ProjectViewProjectNode" />
               <item name="mvc_router_boilerplate" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+              <item name="TickIt_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TickIt_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TickIt_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TickIt_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TickIt_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TickIt_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TickIt_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TickIt_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TickIt_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TickIt_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TickIt_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freebie-2-beautiful-checkout-forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TickIt_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="freebie-2-beautiful-checkout-forms" type="462c0819:PsiDirectoryNode" />
+              <item name="payment" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> 66463f248c4dbf7ead838a535b9da776425a68b6
           </expand>
           <select />
         </subPane>
@@ -78,16 +190,19 @@
     <property name="node.js.selected.package.jscs" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/controller" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/view/checkout" />
+      <recent name="$PROJECT_DIR$/view/events" />
+      <recent name="$PROJECT_DIR$/controller" />
       <recent name="$PROJECT_DIR$/view" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/view/checkout" />
+      <recent name="$PROJECT_DIR$/controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -123,16 +238,26 @@
       <workItem from="1579272117675" duration="919000" />
       <workItem from="1579276803142" duration="149000" />
       <workItem from="1579538549732" duration="520000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1583156175274" duration="5663000" />
+      <workItem from="1583243630039" duration="58000" />
+      <workItem from="1583490958048" duration="2229000" />
+>>>>>>> 66463f248c4dbf7ead838a535b9da776425a68b6
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="15404000" />
+=======
+    <option name="totallyTimeSpent" value="23354000" />
+>>>>>>> 66463f248c4dbf7ead838a535b9da776425a68b6
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2802198" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2899878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -154,7 +279,7 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2863248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -182,13 +307,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/css/grids.css" />
     <entry file="file://$PROJECT_DIR$/model/utilities.php" />
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/view/home.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -197,13 +316,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css" />
     <entry file="file://$PROJECT_DIR$/view/test.php" />
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
@@ -234,13 +347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/view/header.php" />
     <entry file="file://$PROJECT_DIR$/controller/router.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -248,24 +355,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
+    <entry file="file://$PROJECT_DIR$/view/footer.php" />
+    <entry file="file://$PROJECT_DIR$/controller/home.php" />
+    <entry file="file://$PROJECT_DIR$/../../bluebloq/blueboq_dashboard/view/layout/sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/model/ProjectsLogic.php" />
+    <entry file="file://$PROJECT_DIR$/../../bluebloq/blueboq_dashboard/index.php" />
+    <entry file="file://$PROJECT_DIR$/view/events/event_reads.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="17">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/footer.php">
+    <entry file="file://$PROJECT_DIR$/view/layout/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bluebloq/AdminLTE-master/pages/forms/general.html" />
+    <entry file="file://$PROJECT_DIR$/view/layout/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="52" column="45" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/events/event_create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bluebloq/AdminLTE-master/pages/forms/advanced.html" />
+    <entry file="file://$USER_HOME$/Downloads/freebie-2-beautiful-checkout-forms/shopping-cart/shopping-cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2434">
+          <caret line="610" column="30" lean-forward="true" selection-start-line="610" selection-start-column="30" selection-end-line="610" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="48" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/freebie-2-beautiful-checkout-forms/shopping-cart/shopping-cart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/events/event_order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3855">
+          <caret line="257" column="62" selection-start-line="257" selection-start-column="54" selection-end-line="257" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/checkout/checkout_transaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/freebie-2-beautiful-checkout-forms/payment/payment.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="140" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/freebie-2-beautiful-checkout-forms/payment/payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="48" selection-end-line="69" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/checkout/checkout_order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1328">
+          <caret line="88" column="29" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/admin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controller/home.php">
+    <entry file="file://$PROJECT_DIR$/view/layout/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="15">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/AuthLogic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="62" selection-start-line="53" selection-start-column="62" selection-end-line="53" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/login/login.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
