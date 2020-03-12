@@ -25,7 +25,7 @@ class Router {
             $packetMethod = $packets[5];
 
             // Fallback class when none are given.
-            (!$packetClass) ? $class = 'admin' : $class = $packetClass;
+            (!$packetClass) ? $class = 'home' : $class = $packetClass;
 
             // Fallback method when none are given.
             (!$packetMethod) ? $method = 'index' : $method = $packetMethod;
@@ -53,5 +53,9 @@ class Router {
         if ($method) {
             die(call_user_func_array(array($obj, $method), $params));
         }
+    }
+
+    public function __destruct() {
+        # code...
     }
 }
